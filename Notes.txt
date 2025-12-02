@@ -1,0 +1,8 @@
+Overview of Basic Hello World Program:
+
+- Basic C++ program used which displays text onto the screen
+- Using C++ as source-code, and Command Prompt on windows to execute
+
+I am mainly using this to test the basics of C++ I/O and starting to learn syntax.
+
+After following the instructions from my learning materials, I was able to install the C++ compiler and compiled main.cpp into a.exe in my repository. I was also able to confirm this executable works with my terminal and it successfully outputs "Hello World!".
